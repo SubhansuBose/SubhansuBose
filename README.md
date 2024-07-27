@@ -3,7 +3,7 @@
 
 ![TYPING SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=ffffff&size=24&width=500&lines=👋Nice+To+Meet+You...;⚡Aspiring+Data+Analyst)
 
-<img align="right" alt="coding" width="500" src="https://miro.medium.com/v2/resize:fit:1400/1*GEdJLylOetciQAyv9bIORg.jpeg"/>
+<img align="right" alt="coding" width="450" src="https://user-images.githubusercontent.com/75851313/151668395-5591532b-28da-46a6-9476-7c9694bcb60e.gif"/>
 
 - 🔭 I’m currently working on Github Readme Profile
 - 🌱 I’m currently learning Machine Learniing
